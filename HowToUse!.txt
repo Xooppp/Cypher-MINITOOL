@@ -16,4 +16,4 @@
 
 9. Run the 'Cypher' file, and enjoy :D
 
-[LOGIN = ROOT ROOT]
+[LOGIN = root root]
