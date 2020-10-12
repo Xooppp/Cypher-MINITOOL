@@ -1,0 +1,19 @@
+1. Go to https://github.com/xooppp/Cypher-MINITOOL
+
+2. Click on 'code' then click on 'Download ZIP'
+
+3. Once downloaded, get it to ur Desktop.
+
+4. (U need winrar for this btw), right click on it and choose 'Extract to Cypher-MINITOOL-main\
+
+5. Once extracted, u get a lil folder with stuff in it. Just get the .rar file 'cypher-mini' out of it and put it on your desktop.
+
+6. Right click on 'cypher-mini', 
+
+7. Right click on it, click on 'Extract to cypher-mini\' 
+
+8. Once extracted, you get another folder called 'cypher-mini'. Open that folder
+
+9. Run the 'Cypher' file, and enjoy :D
+
+[LOGIN = ROOT ROOT]
